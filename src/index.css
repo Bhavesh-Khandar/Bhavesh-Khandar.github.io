@@ -1,13 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
 body {
+  color: black;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Raleway", serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  /* background-image: linear-gradient(to left, rgb(255, 255, 255), rgb(255, 255, 255)); */
+  background-image: url("https://img.freepik.com/premium-photo/abstract-white-lines-background-minimal-dynamic-shape-3d-rendering_224530-2088.jpg?w=2000");
 }
